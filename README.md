@@ -1,4 +1,4 @@
-# Data-Cleaning-Projects
+# EDA and Technical Report
 # Project 1: Exploratory Data Analysis and Effective Technical Reporting
 ### 📝 About the Project  
 This project aims is to analyze and identify insights related to user behavior, traffic sources, and engagements. Understanding these metrics is essential for optimizing digital marketing strategies, improving user experience, and increasing conversions.  
